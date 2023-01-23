@@ -38,6 +38,7 @@ the details the data will be stored in the database
 
 ● I have used various packages that
  are necessary (cors, express,jsonwentoken,bcrypt,Node.js);
+ ![Screenshot (56)](https://user-images.githubusercontent.com/113659313/213982631-52f09053-876e-4ae2-adf3-037659bc957a.png)
 
 
 
